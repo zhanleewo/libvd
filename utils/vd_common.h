@@ -1,4 +1,0 @@
-#ifndef LIBVD_UTILS_COMMON_H
-#define LIBVD_UTILS_COMMON_H
-
-#endif
